@@ -1,27 +1,15 @@
 fun main(){
-Name()
-    Modulus(81,7)
-    Sum(98,86,80,75)
-    interestingFactAboutMe()
-}
+var fullName="student"
+        println(fullName)
+        val age="ageNumber"
+    println(age)
+    val phoneNumber="number"
+    println(phoneNumber)
+    var weight=63.7F
+    println(weight)
+    var citizenshipKenyan="true"
+            println(citizenshipKenyan)
+    var citizenshipNotKenyan="false"
+    println(citizenshipNotKenyan)
 
-fun Name(){
-    var name="Respah"
-    println("hello "+name)
-
-}
-fun Modulus(a: Int, b: Int){
-    var numbers=a%b
-    println(numbers)
-     }
-    fun Sum(a: Int,b: Int,  c: Int, d: Int){
-        var sum=a+b
-        println(sum)
     }
-
-fun interestingFactAboutMe(){
-    var interestingPart="loves coding so much"
-    println("respah "+interestingPart)
-
-}
-
